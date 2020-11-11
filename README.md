@@ -5,9 +5,13 @@ Home: https://github.com/jreese/aioitertools
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/aioitertools-feedstock/blob/master/LICENSE.txt)
 
 Summary: asyncio version of the standard multiprocessing module
+
+Development: https://github.com/jreese/aioitertools
+
+Documentation: https://github.com/jreese/aioitertools
 
 Implementation of itertools, builtins, and more for AsyncIO and mixed-type
 iterables.
