@@ -1,5 +1,5 @@
 {% set name = "aioitertools" %}
-{% set version = "0.8.0" %}
+{% set version = "0.9.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 8b02facfbc9b0f1867739949a223f3d3267ed8663691cc95abd94e2c1d8c2b46
+  sha256: 0fd203d53192193973cae71fa14f0d3689328388ad41ca4a4e03e433f98871ac
 
 build:
   number: 0
